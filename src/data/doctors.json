@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Riya Mehra",
+    "specialization": "Cardiologist",
+    "profileImg": "https://randomuser.me/api/portraits/women/44.jpg",
+    "available": true,
+    "details": "Expert in heart surgeries and cardiovascular diseases. Over 10 years of experience."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rahul Sharma",
+    "specialization": "Dermatologist",
+    "profileImg": "https://randomuser.me/api/portraits/men/45.jpg",
+    "available": false,
+    "details": "Treats acne, rashes, and chronic skin diseases. Practicing since 2014."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sneha Iyer",
+    "specialization": "Pediatrician",
+    "profileImg": "https://randomuser.me/api/portraits/women/48.jpg",
+    "available": true,
+    "details": "Loves working with children. Known for her gentle and effective approach."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Arjun Kapoor",
+    "specialization": "Neurologist",
+    "profileImg": "https://randomuser.me/api/portraits/men/40.jpg",
+    "available": true,
+    "details": "Specialist in treating nervous system disorders and epilepsy."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Ananya Rao",
+    "specialization": "Gynecologist",
+    "profileImg": "https://randomuser.me/api/portraits/women/50.jpg",
+    "available": false,
+    "details": "Over 15 years of experience in women's health and prenatal care."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Karan Patel",
+    "specialization": "Orthopedic Surgeon",
+    "profileImg": "https://randomuser.me/api/portraits/men/55.jpg",
+    "available": true,
+    "details": "Specializes in bone and joint issues, including sports injuries."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Meenal Aggarwal",
+    "specialization": "Psychiatrist",
+    "profileImg": "https://randomuser.me/api/portraits/women/60.jpg",
+    "available": true,
+    "details": "Focuses on mental wellness and counseling. Expert in treating anxiety and depression."
+  },
+  {
+    "id": 8,
+    "name": "Dr. Vikram Sethi",
+    "specialization": "General Physician",
+    "profileImg": "https://randomuser.me/api/portraits/men/30.jpg",
+    "available": false,
+    "details": "Deals with general health checkups and common illnesses. Trusted by families for over a decade."
+  }
+]
